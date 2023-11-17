@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    color: darkslateblue;
+    margin: 5px;
+    padding: 2px;
+}
+header, footer {
+    text-align: right;
+    background-color: cadetblue;
+    color: darkseagreen;
+    margin: 6px;
+    padding: 3px;
+}
+p {
+    text-align: right;
+}
