@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+    color: darkslateblue;
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header, footer {
+    text-align: right;
+    background-color: cadetblue;
+    color: darkseagreen;
+    margin: 5px;
+    padding: 2px;
+}
+p {
+    text-align: justify;
+    text-indent: 8ch;
+}
+p::first-letter {
+    font-size: 120%;
+    color: gold;
+    text-decoration-line: underline;
+}
+h2, h3, h4 {
+    color: wheat;
+    text-decoration-line: underline;
+}
+h4::first-letter {
+    color: orange
+}
